@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.3" pages="2">
   <diagram name="페이지-1" id="KHk0nPtYh4eh7Fd_yaVx">
-    <mxGraphModel dx="2008" dy="2407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1854" dy="2312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="G9qvY0UhT8ZJuswkd91p-1" value="&lt;font&gt;비회원 사용자&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="60" y="-60" width="90" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="G9qvY0UhT8ZJuswkd91p-5" value="회원가입" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FAFF9E);fontColor=light-dark(#000000,#000000);fontSize=16;" vertex="1" parent="1">
+        <mxCell id="G9qvY0UhT8ZJuswkd91p-5" value="회원가입" style="ellipse;whiteSpace=wrap;fillColor=light-dark(#F8CECC,#FFA400);fontSize=16;fontStyle=1;labelBackgroundColor=none;strokeColor=light-dark(#b85450, #000000);gradientColor=#ea6b66;gradientDirection=west;opacity=20;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
           <mxGeometry x="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G9qvY0UhT8ZJuswkd91p-6" value="로그인" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
