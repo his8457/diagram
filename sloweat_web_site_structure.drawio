@@ -1,17 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1418" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1854" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ydasgig3aiIOotFLa35J-20" value="관리자" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="710" y="130" width="740" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="ydasgig3aiIOotFLa35J-1" target="ydasgig3aiIOotFLa35J-3">
+        <mxCell id="ydasgig3aiIOotFLa35J-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ydasgig3aiIOotFLa35J-1" target="ydasgig3aiIOotFLa35J-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="850" y="170" />
-              <mxPoint x="260" y="170" />
+              <mxPoint x="510" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -19,87 +16,111 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="850" y="170" />
-              <mxPoint x="430" y="170" />
+              <mxPoint x="680" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ydasgig3aiIOotFLa35J-1" target="ydasgig3aiIOotFLa35J-6">
+        <mxCell id="ydasgig3aiIOotFLa35J-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ydasgig3aiIOotFLa35J-1" target="ydasgig3aiIOotFLa35J-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="170" />
-              <mxPoint x="770" y="170" />
+              <mxPoint x="850" y="180" />
+              <mxPoint x="850" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ydasgig3aiIOotFLa35J-1" target="ydasgig3aiIOotFLa35J-4">
+        <mxCell id="ydasgig3aiIOotFLa35J-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ydasgig3aiIOotFLa35J-1" target="ydasgig3aiIOotFLa35J-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="850" y="170" />
-              <mxPoint x="600" y="170" />
+              <mxPoint x="1020" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ydasgig3aiIOotFLa35J-1" target="ydasgig3aiIOotFLa35J-5">
+        <mxCell id="ydasgig3aiIOotFLa35J-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ydasgig3aiIOotFLa35J-1" target="ydasgig3aiIOotFLa35J-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="850" y="170" />
-              <mxPoint x="940" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ydasgig3aiIOotFLa35J-1" target="ydasgig3aiIOotFLa35J-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="850" y="170" />
-              <mxPoint x="1110" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ydasgig3aiIOotFLa35J-1" target="ydasgig3aiIOotFLa35J-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="850" y="170" />
-              <mxPoint x="1280" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ydasgig3aiIOotFLa35J-1" target="ydasgig3aiIOotFLa35J-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="850" y="170" />
-              <mxPoint x="1450" y="170" />
+              <mxPoint x="1190" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ydasgig3aiIOotFLa35J-1" value="SLOWEAT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67C9FF;fontStyle=3;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="790" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ydasgig3aiIOotFLa35J-2" value="설정" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBEFFF;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="370" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ydasgig3aiIOotFLa35J-3" value="게시글" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBEFFF;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ydasgig3aiIOotFLa35J-4" value="프로필" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBEFFF;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-5" value="게시글 관리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBEFFF;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="880" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="ydasgig3aiIOotFLa35J-21" value="게시글 조회작성&lt;div&gt;수정/삭제&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-6" value="회원 관리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBEFFF;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="710" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="ydasgig3aiIOotFLa35J-25" value="좋아요" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-7" value="댓글 관리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBEFFF;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="1050" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="ydasgig3aiIOotFLa35J-26" value="즐겨찾기" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="450" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-8" value="결제 관리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBEFFF;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="1220" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="ydasgig3aiIOotFLa35J-27" value="회원 정지/탈퇴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="1130" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-9" value="서비스 통계" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBEFFF;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="1390" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="ydasgig3aiIOotFLa35J-28" value="신고글 삭제" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="1130" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ydasgig3aiIOotFLa35J-19" value="사용자" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="260" y="130" width="400" height="30" as="geometry" />
+        <mxCell id="ydasgig3aiIOotFLa35J-29" value="신고 댓글 삭제" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="1130" y="359" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-30" value="환불 처리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="1130" y="409" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-31" value="서비스 통계 조회" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="1130" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-32" value="일반회원" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBEFFF;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="960" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-33" value="관리자" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBEFFF;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="1130" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-36" value="구독 조회/신청/취소" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="620" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-37" value="프로필 변경" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-38" value="회원 탈퇴" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="620" y="359" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-48" value="내 프로필 조회" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="790" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-49" value="팔로워 조회" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="790" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-50" value="팔로잉 조회" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="790" y="359" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-51" value="내가 쓴 게시글 조회" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="790" y="409" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-52" value="내가 쓴 댓글 조회" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="790" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-54" value="회원가입" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="960" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-55" value="로그인" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="960" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-60" value="댓글 조회/작성&lt;div&gt;수정/삭제&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="450" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ydasgig3aiIOotFLa35J-61" value="게시글/댓글 신고" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
