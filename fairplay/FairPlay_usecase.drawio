@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="페이지-1" id="M0tbnselP6ZzbopTk5rP">
-    <mxGraphModel dx="3013" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2191" dy="2520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
           <mxGeometry x="3420" y="250" width="45" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;전체 관리자&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="2330" width="45" height="90" as="geometry" />
+          <mxGeometry x="1940" y="2330" width="45" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sVL81bUTCZYpE5jUuNYF-9" target="sVL81bUTCZYpE5jUuNYF-4">
           <mxGeometry relative="1" as="geometry" />
@@ -93,31 +93,31 @@
           <mxGeometry x="3130" y="255" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-20" value="로그인" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2156" y="2170" width="120" height="80" as="geometry" />
+          <mxGeometry x="1896" y="2170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-22" value="전체 대시보드" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2361" y="2000" width="120" height="80" as="geometry" />
+          <mxGeometry x="2101" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-23" value="박람회 관리" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="2000" width="120" height="80" as="geometry" />
+          <mxGeometry x="2310" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-24" value="계정 관리" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1600" y="1414" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sVL81bUTCZYpE5jUuNYF-25" value="VIP 배너 광고 관리" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2152.5" y="2000" width="120" height="80" as="geometry" />
+        <mxCell id="sVL81bUTCZYpE5jUuNYF-25" value="VIP 배너&amp;nbsp;&lt;div&gt;광고 관리&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1892.5" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-26" value="결제/정산" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1948" y="2000" width="120" height="80" as="geometry" />
+          <mxGeometry x="1688" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-27" value="통합 통계" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="2000" width="120" height="80" as="geometry" />
+          <mxGeometry x="1470" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-28" value="시스템 설정" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1521" y="2000" width="120" height="80" as="geometry" />
+          <mxGeometry x="1261" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-29" value="로그/보안" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="2000" width="120" height="80" as="geometry" />
+          <mxGeometry x="1060" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="sVL81bUTCZYpE5jUuNYF-30" target="sVL81bUTCZYpE5jUuNYF-92">
           <mxGeometry relative="1" as="geometry" />
@@ -126,19 +126,19 @@
           <mxGeometry x="2930" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-36" value="박람회 생성" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2775" y="1690" width="120" height="80" as="geometry" />
+          <mxGeometry x="2515" y="1690" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-37" value="박람회 수정" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2650" y="1540" width="120" height="80" as="geometry" />
+          <mxGeometry x="2390" y="1540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-38" value="박람회 삭제" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="1540" width="120" height="80" as="geometry" />
+          <mxGeometry x="2200" y="1540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-40" value="박람회 목록&amp;nbsp;&lt;div&gt;조회&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="1840" width="120" height="80" as="geometry" />
+          <mxGeometry x="2310" y="1840" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-42" value="박람회 상세&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;조회&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="1690" width="120" height="80" as="geometry" />
+          <mxGeometry x="2310" y="1690" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-43" value="계정 생성" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1860" y="1414" width="120" height="80" as="geometry" />
@@ -162,7 +162,7 @@
           <mxGeometry x="3150" y="1105" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-51" value="신청서 검토" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3150" y="1310" width="120" height="80" as="geometry" />
+          <mxGeometry x="3150" y="1830" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-54" value="계정 발급(Email)" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="2130" y="1414" width="120" height="80" as="geometry" />
@@ -198,10 +198,10 @@
           <mxGeometry x="1730" y="426" width="45" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-63" value="박람회&amp;nbsp;&lt;div&gt;계정 생성/발급&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3210" y="1560" width="120" height="80" as="geometry" />
+          <mxGeometry x="2361" y="950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-64" value="광고 설정" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2152.5" y="1830" width="120" height="80" as="geometry" />
+          <mxGeometry x="1892.5" y="1830" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sVL81bUTCZYpE5jUuNYF-77" target="sVL81bUTCZYpE5jUuNYF-58">
           <mxGeometry relative="1" as="geometry">
@@ -360,10 +360,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-137" value="신청 승인" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2940" y="930" width="120" height="80" as="geometry" />
+          <mxGeometry x="2950" y="1830" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sVL81bUTCZYpE5jUuNYF-140" value="박람회&amp;nbsp;&lt;div&gt;신청서 관리&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2990" y="2000" width="120" height="80" as="geometry" />
+          <mxGeometry x="3150" y="2000" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
